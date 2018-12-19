@@ -81,8 +81,8 @@ render(){
                   handleEdit={this.handleEdit}
                   id={todo._id}/>)}
         </div>
-    )
-}
+        )
+    }
 }
 
 export default App
