@@ -1,1 +1,1 @@
-This is a simple todo list built with React to demonstrate knowledge of react.
+Practice
